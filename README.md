@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+// ADD YOUR NEWS API KEY HERE AT LINE NO. 10 OF App.js  //
+// apiKey= process.env.REACT_APP_NEWS_API               // 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
