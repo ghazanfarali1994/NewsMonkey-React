@@ -7,8 +7,8 @@ import LoadingBar from 'react-top-loading-bar'
 
 export default class App extends Component {
   pageSize = 15;
-  // apiKey= process.env.REACT_APP_NEWS_API
-  apiKey= "405dd9e5508b412b911829a863abdb46"
+  // apiKey= process.env.REACT_APP_NEWS_API   /* Use if you want to Hide NEWS API Key in .env.local file */
+  apiKey= "405dd9e5508b412b911829a863abdb46" /* if you want to use Hard Code NEWS API Key Here */
 
   state = {
     progress: 0
